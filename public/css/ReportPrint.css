@@ -1,0 +1,17 @@
+@media print {
+    .navbar{
+        display: none;
+    }
+    .sidebar{
+        display: none;
+    }
+    #card-inf{
+        display: none;
+    }
+    .main-content{
+        right: 0;
+    }
+    .card{
+        border:0;
+    }
+}
